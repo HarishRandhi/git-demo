@@ -1,3 +1,3 @@
 # git-demo
 
-Harish
+Harish Randhi
